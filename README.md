@@ -8,12 +8,7 @@ PT.MulyaTheScant adalah website profil perusahaan (company profile) di bidang te
 
 ---
 
-## 📸 Cuplikan Layar (Screenshots)
-*(Di bawah ini adalah gambaran halaman utama website)*
 
-| Beranda (Hero Section) | Bagian Layanan & Testimoni |
-| :---: | :---: |
-| *(Tambahkan screenshot beranda di sini)* | *(Tambahkan screenshot layanan di sini)* |
 
 ## ✨ Fitur Utama
 
