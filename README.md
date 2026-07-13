@@ -45,4 +45,4 @@ Jika Anda menggunakan Visual Studio Code, sangat disarankan menggunakan ekstensi
 3. Browser akan otomatis terbuka dan memuat ulang halaman setiap kali ada perubahan pada kode.
 
 # PT.MulyaTheScant-CompanyProfile
-# ProfilPerusahaan
+
