@@ -7,6 +7,12 @@
 PT.MulyaTheScant adalah website profil perusahaan (company profile) di bidang teknologi yang dirancang untuk menampilkan informasi perusahaan, layanan unggulan, serta testimoni klien. Dibangun dengan antarmuka **Glassmorphism** yang elegan, aplikasi ini memastikan pengalaman pengunjung yang modern dan responsif. Di sisi visual, website ini menggunakan perpaduan warna *Navy Blue* dan *Neon Cyan* pada latar belakang terang (*Light Mode*) untuk menciptakan kesan profesional dan futuristik.
 
 ---
+## 📸 Cuplikan Layar (Screenshots)
+*(Di bawah ini adalah gambaran halaman utama aplikasi)*
+
+| Beranda | 
+| :---: | 
+| ![Beranda](aset/Beranda.png) | 
 
 
 
